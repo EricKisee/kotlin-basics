@@ -16,4 +16,16 @@ fun main () {
         println("Nothing")
     }
 
+    val value = if (n1>=n2 || n1<=30){
+        println("****")
+        "$$$$"
+    } else {
+        println("&&&&")
+        "####"
+    }
+
+    println(value)
+
+
+
 }

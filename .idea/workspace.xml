@@ -4,7 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f69a0d92-a6b2-456d-8fc6-b67629bf76bf" name="Changes" comment="Kotlin basics 1" />
+    <list default="true" id="f69a0d92-a6b2-456d-8fc6-b67629bf76bf" name="Changes" comment="Kotlin basics">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Arrays.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/IfAndBoolean.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/IfElseTernary.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ListDestructuring.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Lists.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/MoreCaseStatement.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/MutableLists.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/WhenExpStatement.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/ComparisonOperators.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/ComparisonOperators.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,49 +46,54 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.new.ui&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "reference.settings.ide.settings.new.ui"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "kotlin"
+    ]
   }
-}</component>
-  <component name="RunManager" selected="Kotlin.ComparisonOperatorsKt">
-    <configuration name="ArithmeticOperatorsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArithmeticOperatorsKt" />
+}]]></component>
+  <component name="RunManager" selected="Kotlin.ListDestructuringKt">
+    <configuration name="ArraysKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArraysKt" />
       <module name="kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BooleansKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BooleansKt" />
+    <configuration name="ListDestructuringKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ListDestructuringKt" />
       <module name="kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ComparisonOperatorsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ComparisonOperatorsKt" />
+    <configuration name="ListsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ListsKt" />
       <module name="kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IncDecOperatorsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IncDecOperatorsKt" />
+    <configuration name="MoreCaseStatementKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MoreCaseStatementKt" />
       <module name="kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringEqualityKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringEqualityKt" />
+    <configuration name="MutableListsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MutableListsKt" />
       <module name="kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -85,11 +101,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.ComparisonOperatorsKt" />
-        <item itemvalue="Kotlin.BooleansKt" />
-        <item itemvalue="Kotlin.IncDecOperatorsKt" />
-        <item itemvalue="Kotlin.ArithmeticOperatorsKt" />
-        <item itemvalue="Kotlin.StringEqualityKt" />
+        <item itemvalue="Kotlin.ListDestructuringKt" />
+        <item itemvalue="Kotlin.MutableListsKt" />
+        <item itemvalue="Kotlin.ListsKt" />
+        <item itemvalue="Kotlin.ArraysKt" />
+        <item itemvalue="Kotlin.MoreCaseStatementKt" />
       </list>
     </recent_temporary>
   </component>
@@ -110,7 +126,15 @@
       <option name="project" value="LOCAL" />
       <updated>1697598368348</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Kotlin basics">
+      <option name="closed" value="true" />
+      <created>1701676299890</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1701676299890</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -126,6 +150,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Kotlin basics 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Kotlin basics 1" />
+    <MESSAGE value="Kotlin basics" />
+    <option name="LAST_COMMIT_MESSAGE" value="Kotlin basics" />
   </component>
 </project>
