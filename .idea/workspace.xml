@@ -5,16 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f69a0d92-a6b2-456d-8fc6-b67629bf76bf" name="Changes" comment="Kotlin basics">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Arrays.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/IfAndBoolean.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/IfElseTernary.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ListDestructuring.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Lists.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/MoreCaseStatement.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/MutableLists.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/WhenExpStatement.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/BreakContinue.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/DoWhileLoop.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ForEach.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Functions.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/LoopIndices.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/LoopRange.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Loops.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/LoopsInStrings.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/WhileLoop.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/ComparisonOperators.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/ComparisonOperators.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,37 +63,37 @@
     ]
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.ListDestructuringKt">
-    <configuration name="ArraysKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArraysKt" />
+  <component name="RunManager" selected="Kotlin.FunctionsKt">
+    <configuration name="BreakContinueKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BreakContinueKt" />
       <module name="kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListDestructuringKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ListDestructuringKt" />
+    <configuration name="ForEachKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ForEachKt" />
       <module name="kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ListsKt" />
+    <configuration name="FunctionsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FunctionsKt" />
       <module name="kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MoreCaseStatementKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MoreCaseStatementKt" />
+    <configuration name="LoopsInStringsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LoopsInStringsKt" />
       <module name="kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MutableListsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MutableListsKt" />
+    <configuration name="WhileLoopKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WhileLoopKt" />
       <module name="kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -101,11 +101,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.ListDestructuringKt" />
-        <item itemvalue="Kotlin.MutableListsKt" />
-        <item itemvalue="Kotlin.ListsKt" />
-        <item itemvalue="Kotlin.ArraysKt" />
-        <item itemvalue="Kotlin.MoreCaseStatementKt" />
+        <item itemvalue="Kotlin.FunctionsKt" />
+        <item itemvalue="Kotlin.BreakContinueKt" />
+        <item itemvalue="Kotlin.WhileLoopKt" />
+        <item itemvalue="Kotlin.ForEachKt" />
+        <item itemvalue="Kotlin.LoopsInStringsKt" />
       </list>
     </recent_temporary>
   </component>
@@ -134,7 +134,15 @@
       <option name="project" value="LOCAL" />
       <updated>1701676299890</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Kotlin basics">
+      <option name="closed" value="true" />
+      <created>1701797947551</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1701797947551</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
